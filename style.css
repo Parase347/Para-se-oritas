@@ -25,7 +25,7 @@ body {
 body {
     margin: 0;
     padding: 0;
-    font-family: Arial, sans-serif;
+    font-family: French Script MT, sans-serif;
 }
 
 .naglowek {
@@ -53,6 +53,7 @@ background-repeat: no-repeat; /* żeby nie powtarzało się w tle */
     margin: 20px 0;           /* Odstęp nad i pod tytułem */
     font-family: 'Arial', sans-serif; /* Czcionka */
 }
+
 
 
 
