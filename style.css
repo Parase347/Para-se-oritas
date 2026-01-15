@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: French Script MT, sans-serif;
     background-color: #f2f2f2;
     text-align: center;
     margin: 0;
@@ -59,6 +59,7 @@ background-repeat: no-repeat; /* żeby nie powtarzało się w tle */
     margin: 20px 0;           /* Odstęp nad i pod tytułem */
     font-family: 'French Script MT', sans-serif; /* Czcionka */
 }
+
 
 
 
