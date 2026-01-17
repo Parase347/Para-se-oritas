@@ -42,7 +42,7 @@ body {
 }
 
 .descarga__4_-removebg-preview.png {
-  text-align: center;       /* wyśrodkowanie */
+  text-align: right;       /* wyśrodkowanie */
   margin: 20px 0 40px 0;    /* odstęp od góry i dołu */
 }
 
@@ -52,6 +52,7 @@ body {
   height: auto;             /* zachowuje proporcje */
   display: inline-block;    /* wyśrodkowanie działa dobrze */
 }
+
 
 
 
