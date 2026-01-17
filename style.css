@@ -31,17 +31,15 @@ body {
   letter-spacing: 1px;   /* lekki odstęp między literami */
 }
 .scripture-text {
-  width: 90%;               /* deja un pequeño margen a los lados */
-  max-width: 800px;         /* para que no se haga demasiado ancho en pantallas grandes */
-  margin: 30px auto;        /* centrado horizontal y espacio arriba/abajo */
-  text-align: center;       /* todo centrado */
+  width: 90%;                  /* margines po bokach */
+  max-width: 800px;            /* nie za szeroko na dużych ekranach */
+  margin: 20px auto 50px auto; /* wyśrodkowanie + odstęp od góry i dołu */
+  text-align: center;           /* wyśrodkowanie tekstu */
   font-family: "SF Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  font-size: 1.1rem;        /* tamaño de letra legible */
-  line-height: 1.7;         /* espacio entre líneas para fácil lectura */
-  color: #333;              /* color gris oscuro agradable */
+  font-size: 1.5rem;            /* większy niż normalny tekst, mniejszy niż tytuł */
+  line-height: 1.8;             /* przestrzeń między liniami dla czytelności */
+  color: #333;                  /* ciemny, elegancki kolor */
 }
-
-
 
 
 
